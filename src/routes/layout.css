@@ -1,1 +1,6 @@
 @import 'tailwindcss';
+
+@theme {
+	--color-dark-white: oklch(0.99 0 0);
+	--font-display: 'Quicksand', 'sans-serif';
+}
