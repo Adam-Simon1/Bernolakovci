@@ -43,8 +43,10 @@
 				href="#introduction"
 				on:click|preventDefault={scrollIntoView}>Úvod</a
 			>
-			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href=""
-				>Kľúčové osobnosti</a
+			<a
+				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
+				href="#figures"
+				on:click|preventDefault={scrollIntoView}>Kľúčové osobnosti</a
 			>
 			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href=""
 				>Chronologická os</a

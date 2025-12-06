@@ -13,11 +13,11 @@
 		</p>
 		<div class="flex flex-row space-x-3">
 			<button
-				class="bg-neutral-900 text-white px-6 py-3 rounded-lg hover:bg-neutral-800 transition-colors"
+				class="bg-neutral-900 text-white px-6 py-3 rounded-lg hover:bg-neutral-800 transition-colors cursor-pointer"
 				>Objav históriu</button
 			>
 			<button
-				class="border border-neutral-300 text-neutral-700 px-6 py-3 rounded-lg hover:bg-neutral-50 transition-colors"
+				class="border border-neutral-300 text-neutral-700 px-6 py-3 rounded-lg hover:bg-neutral-50 transition-colors cursor-pointer"
 				>Chronologická os</button
 			>
 		</div>
