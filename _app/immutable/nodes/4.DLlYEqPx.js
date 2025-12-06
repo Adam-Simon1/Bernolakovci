@@ -1,0 +1,1 @@
+import{f as a,a as t}from"../chunks/UoEzuIBS.js";import"../chunks/DaKoKFCX.js";var n=a("<p>https://hashtag.zoznam.sk/wp-content/uploads/2021/02/69637060_161273198266310_6598443471849877163_n.jpg</p>");function s(p){var o=n();t(p,o)}export{s as component};
