@@ -1,20 +1,10 @@
 <script lang="ts">
-	function scrollIntoView(event: MouseEvent) {
-		const target = event.currentTarget as HTMLAnchorElement | null;
-		if (!target) return;
-
-		const href = target.getAttribute('href');
-		if (!href) return;
-
-		const el = document.querySelector<HTMLElement>(href);
-		if (!el) return;
-
-		el.scrollIntoView({ behavior: 'smooth' });
-	}
+	import { resolve } from '$app/paths';
+	import Dropdown from './Dropdown.svelte';
 </script>
 
 <header
-	class="sticky top-0 flex flex-row justify-between border-b border-neutral-200 bg-white items-center h-16 justify-center"
+	class="sticky top-0 flex flex-row border-b border-neutral-200 bg-white items-center h-16 z-50 justify-center"
 >
 	<div class="flex flex-row w-7xl justify-between">
 		<div class="flex space-x-2 items-center px-5">
@@ -40,40 +30,24 @@
 		<nav class="p-4 flex space-x-6 items-center lg:flex hidden">
 			<a
 				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
-				href="#introduction"
-				on:click|preventDefault={scrollIntoView}>Úvod</a
+				href={resolve(`/`) + '#introduction'}>Úvod</a
 			>
 			<a
 				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
-				href="#figures"
-				on:click|preventDefault={scrollIntoView}>Kľúčové osobnosti</a
+				href={resolve(`/`) + '#figures'}>Kľúčové osobnosti</a
 			>
-			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href=""
+			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href={resolve(`/`) + '#timeline'}
 				>Chronologická os</a
 			>
-			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href="">Diela</a>
+			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href={resolve(`/`) + '#works'}>Diela</a>
 			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href="">Jazyk</a>
-			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href="">Mapa</a>
+			<a
+				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
+				href={resolve(`/mapa`)}>Mapa</a
+			>
 			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href="">Galéria</a>
 		</nav>
 
-		<div class="lg:hidden px-5">
-			<svg
-				class="w-10 h-10 text-gray-800"
-				aria-hidden="true"
-				xmlns="http://www.w3.org/2000/svg"
-				width="24"
-				height="24"
-				fill="none"
-				viewBox="0 0 24 24"
-			>
-				<path
-					stroke="currentColor"
-					stroke-linecap="round"
-					stroke-width="2"
-					d="M5 7h14M5 12h14M5 17h14"
-				/>
-			</svg>
-		</div>
+		<Dropdown />
 	</div>
 </header>

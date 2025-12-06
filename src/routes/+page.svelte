@@ -3,6 +3,8 @@
 	import Introduction from '$lib/Components/Introduction.svelte';
 	import Menu from '$lib/Components/Menu.svelte';
 	import Figures from '$lib/Components/Figures.svelte';
+	import Timeline from '$lib/Components/Timeline.svelte';
+	import Work from '$lib/Components/Work.svelte';
 </script>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -14,3 +16,7 @@
 <Introduction />
 
 <Figures />
+
+<Timeline />
+
+<Work />
