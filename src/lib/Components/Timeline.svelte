@@ -1,7 +1,7 @@
-<div class="py-15" id="timeline">
+<div class="py-15 flex flex-col items-center justify-center" id="timeline">
 	<div class="flex flex-col space-y-5 items-center mb-15">
-		<h1 class="text-4xl text-neutral-900">Chronologicka Os</h1>
-		<p class="text-xl text-neutral-600">Klúčové mílniky v Bernolákovskom hnutí</p>
+		<h1 class="text-4xl text-neutral-900 text-center">Chronologicka Os</h1>
+		<p class="text-xl text-neutral-600 text-center">Klúčové mílniky v Bernolákovskom hnutí</p>
 	</div>
 
 	<div class="relative">

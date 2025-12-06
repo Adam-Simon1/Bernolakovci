@@ -1,7 +1,7 @@
 <div class="py-15 bg-neutral-50 flex flex-col items-center space-y-15" id="works">
 	<div class="flex flex-col items-center justify-center space-y-5">
-		<h1 class="text-4xl text-neutral-900">Najdolezitejsie diela</h1>
-		<p class="text-xl text-neutral-600">Lorem ipsum</p>
+		<h1 class="text-4xl text-neutral-900 text-center">Najdolezitejsie diela</h1>
+		<p class="text-xl text-neutral-600 text-center">Lorem ipsum</p>
 	</div>
 
 	<div class="flex md:flex-row flex-col space-y-10 md:space-x-10 px-10">
