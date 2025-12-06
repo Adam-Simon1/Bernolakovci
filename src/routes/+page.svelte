@@ -5,6 +5,8 @@
 	import Figures from '$lib/Components/Figures.svelte';
 	import Timeline from '$lib/Components/Timeline.svelte';
 	import Work from '$lib/Components/Work.svelte';
+	import Language from '$lib/Components/Language.svelte';
+	import Tovarysstvo from '$lib/Components/Tovarysstvo.svelte';
 </script>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -20,3 +22,7 @@
 <Timeline />
 
 <Work />
+
+<Language />
+
+<Tovarysstvo />

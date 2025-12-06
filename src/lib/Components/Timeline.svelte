@@ -10,8 +10,8 @@
 		<div class="space-y-12">
 			<div class="relative flex items-center">
 				<div class="flex-1 pr-8 text-right">
-					<h3 class="text-xl text-neutral-900">1787</h3>
-					<p class="text-neutral-600">Publication of Dissertatio</p>
+					<h3 class="text-xl text-neutral-900">1750</h3>
+					<p class="text-neutral-600">Narodenie Juraja Fándlyho</p>
 				</div>
 				<div class="relative flex items-center justify-center w-8 h-8 bg-neutral-900 rounded-full">
 					<div class="w-3 h-3 bg-white rounded-full"></div>
@@ -25,15 +25,15 @@
 					<div class="w-3 h-3 bg-white rounded-full"></div>
 				</div>
 				<div class="flex-1 pl-8">
-					<h3 class="text-xl text-neutral-900">1792</h3>
-					<p class="text-neutral-600">Founding of Slovak Learned Society</p>
+					<h3 class="text-xl text-neutral-900">1755</h3>
+					<p class="text-neutral-600">Narodenie Jozefa Ignáca Bajzu</p>
 				</div>
 			</div>
 
 			<div class="relative flex items-center">
 				<div class="flex-1 pr-8 text-right">
-					<h3 class="text-xl text-neutral-900">1825</h3>
-					<p class="text-neutral-600">Publication of Svatopluk</p>
+					<h3 class="text-xl text-neutral-900">1762</h3>
+					<p class="text-neutral-600">Narodenie Antona Bernoláka</p>
 				</div>
 				<div class="relative flex items-center justify-center w-8 h-8 bg-neutral-900 rounded-full">
 					<div class="w-3 h-3 bg-white rounded-full"></div>
@@ -47,9 +47,77 @@
 					<div class="w-3 h-3 bg-white rounded-full"></div>
 				</div>
 				<div class="flex-1 pl-8">
-					<h3 class="text-xl text-neutral-900">1792</h3>
-					<p class="text-neutral-600">Founding of Slovak Learned Society</p>
+					<h3 class="text-xl text-neutral-900">1784-1785</h3>
+					<p class="text-neutral-600">
+						Vydanie románu J. I. Bajzu „René mláďenca príhody a skúsenosťi“ (prvé vydania)
+					</p>
 				</div>
+			</div>
+
+			<div class="relative flex items-center">
+				<div class="flex-1 pr-8 text-right">
+					<h3 class="text-xl text-neutral-900">1786-1787</h3>
+					<p class="text-neutral-600">
+						Publikovanie Bernolákových jazykovedných podkladov (Dissertatio philologico-critica a
+						sprievodné pravopisné návrhy)
+					</p>
+				</div>
+				<div class="relative flex items-center justify-center w-8 h-8 bg-neutral-900 rounded-full">
+					<div class="w-3 h-3 bg-white rounded-full"></div>
+				</div>
+				<div class="flex-1 pl-8"></div>
+			</div>
+
+			<div class="relative flex items-center">
+				<div class="flex-1 pr-8"></div>
+				<div class="relative flex items-center justify-center w-8 h-8 bg-neutral-900 rounded-full">
+					<div class="w-3 h-3 bg-white rounded-full"></div>
+				</div>
+				<div class="flex-1 pl-8">
+					<h3 class="text-xl text-neutral-900">1789</h3>
+					<p class="text-neutral-600">
+						Narodenie Martina Hamuljaka
+						<br /><br />
+						Publikovanie Fándlyho diela „Dúverná zmlúva medzi mňíchom a diáblom“
+					</p>
+				</div>
+			</div>
+
+			<div class="relative flex items-center">
+				<div class="flex-1 pr-8 text-right">
+					<h3 class="text-xl text-neutral-900">1792</h3>
+					<p class="text-neutral-600">Založenie Slovenského učeného tovarišstva v Trnave</p>
+				</div>
+				<div class="relative flex items-center justify-center w-8 h-8 bg-neutral-900 rounded-full">
+					<div class="w-3 h-3 bg-white rounded-full"></div>
+				</div>
+				<div class="flex-1 pl-8"></div>
+			</div>
+
+			<div class="relative flex items-center">
+				<div class="flex-1 pr-8"></div>
+				<div class="relative flex items-center justify-center w-8 h-8 bg-neutral-900 rounded-full">
+					<div class="w-3 h-3 bg-white rounded-full"></div>
+				</div>
+				<div class="flex-1 pl-8">
+					<h3 class="text-xl text-neutral-900">Koniec 18. storočia - začiatok 19. storočia</h3>
+					<p class="text-neutral-600">
+						Rozmach vydavateľskej a literárnej činnosti v bernolákovčine
+					</p>
+				</div>
+			</div>
+
+			<div class="relative flex items-center">
+				<div class="flex-1 pr-8 text-right">
+					<h3 class="text-xl text-neutral-900">Prvá polovica 19. storočia</h3>
+					<p class="text-neutral-600">
+						Postupné oslabovanie a zánik bernolákovského hnutia ako dominantnej spisovnej normy
+					</p>
+				</div>
+				<div class="relative flex items-center justify-center w-8 h-8 bg-neutral-900 rounded-full">
+					<div class="w-3 h-3 bg-white rounded-full"></div>
+				</div>
+				<div class="flex-1 pl-8"></div>
 			</div>
 		</div>
 	</div>

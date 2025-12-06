@@ -13,7 +13,7 @@
 		<div class="flex flex-col items-center space-y-3 pt-15 px-18">
 			<img src={asset('/anton_bernolak.webp')} alt="" class="w-24 h-24 rounded-full border-2 border-neutral-200" />
 			<h3 class="text-lg text-neutral-900">Anton Bernolák</h3>
-			<p class="text-sm text-neutral-600">Lorem Ipsum dolor</p>
+			<p class="text-sm text-neutral-600">Kodifikátor Slovenčiny</p>
 			<button class="text-neutral-700 hover:text-neutral-900 text-sm flex flex-row items-center cursor-pointer"
 				>Pozri Profil <svg
 					class="w-5 h-5"
@@ -37,8 +37,8 @@
 
 		<div class="flex flex-col items-center space-y-3 pt-15 px-18">
 			<img src={asset('/anton_bernolak.webp')} alt="" class="w-24 h-24 rounded-full border-2 border-neutral-200" />
-			<h3 class="text-lg text-neutral-900">Anton Bernolák</h3>
-			<p class="text-sm text-neutral-600">Lorem Ipsum dolor</p>
+			<h3 class="text-lg text-neutral-900">Juraj Fándly</h3>
+			<p class="text-sm text-neutral-600">Osvietenský spisovateľ</p>
 			<button class="text-neutral-700 hover:text-neutral-900 text-sm flex flex-row items-center cursor-pointer"
 				>Pozri Profil <svg
 					class="w-5 h-5"
@@ -62,8 +62,8 @@
 
 		<div class="flex flex-col items-center space-y-3 pt-15 px-18">
 			<img src={asset('/anton_bernolak.webp')} alt="" class="w-24 h-24 rounded-full border-2 border-neutral-200" />
-			<h3 class="text-lg text-neutral-900">Anton Bernolák</h3>
-			<p class="text-sm text-neutral-600">Lorem Ipsum dolor</p>
+			<h3 class="text-lg text-neutral-900">Ján Hollý</h3>
+			<p class="text-sm text-neutral-600">Národný básnik</p>
 			<button class="text-neutral-700 hover:text-neutral-900 text-sm flex flex-row items-center cursor-pointer"
 				>Pozri Profil <svg
 					class="w-5 h-5"
@@ -87,8 +87,8 @@
 
 		<div class="flex flex-col items-center space-y-3 pt-15 px-18">
 			<img src={asset('/anton_bernolak.webp')} alt="" class="w-24 h-24 rounded-full border-2 border-neutral-200" />
-			<h3 class="text-lg text-neutral-900">Anton Bernolák</h3>
-			<p class="text-sm text-neutral-600">Lorem Ipsum dolor</p>
+			<h3 class="text-lg text-neutral-900">Martin Hamuljak</h3>
+			<p class="text-sm text-neutral-600">Kultúrny organizátor</p>
 			<button class="text-neutral-700 hover:text-neutral-900 text-sm flex flex-row items-center cursor-pointer"
 				>Pozri Profil <svg
 					class="w-5 h-5"
@@ -112,8 +112,8 @@
 
 		<div class="flex flex-col items-center space-y-3 pt-15 px-18">
 			<img src={asset('/anton_bernolak.webp')} alt="" class="w-24 h-24 rounded-full border-2 border-neutral-200" />
-			<h3 class="text-lg text-neutral-900">Anton Bernolák</h3>
-			<p class="text-sm text-neutral-600">Lorem Ipsum dolor</p>
+			<h3 class="text-lg text-neutral-900">Juraj Palkovič</h3>
+			<p class="text-sm text-neutral-600">Literárny propagátor</p>
 			<button class="text-neutral-700 hover:text-neutral-900 text-sm flex flex-row items-center cursor-pointer"
 				>Pozri Profil <svg
 					class="w-5 h-5"

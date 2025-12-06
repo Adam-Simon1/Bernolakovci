@@ -1,13 +1,13 @@
-<div class="flex flex-col items-center space-y-15 py-15" id="introduction">
-	<div class="flex flex-col space-y-5 items-center">
-		<h1 class="text-4xl text-neutral-900 text-center px-2">Úvod do Bernolákovského hnutia</h1>
-		<p class="text-xl text-neutral-600 max-w-3xl mx-auto text-center px-2">
-			Pochopenie hnutia, ktoré zrevolucionizovalo slovenský spisovný jazyk
+<div class="flex flex-col space-y-15 bg-neutral-50 py-15">
+	<div class="flex flex-col items-center justify-center space-y-5">
+		<h1 class="text-4xl text-neutral-900 text-center">Slovenske Ucene Tovarisstvo</h1>
+		<p class="text-xl text-neutral-600 text-center">
+			Spolok, ktorý zdruzoval provrzenocov bernolakovcov na slovensku a siril slovensky jazyk
 		</p>
 	</div>
 
 	<div class="flex lg:flex-row flex-col lg:space-x-10 px-10 lg:space-y-0 space-y-5">
-		<div class="p-8 flex space-y-3 flex-col bg-neutral-50 rounded-lg">
+		<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200">
 			<div class="flex space-y-0.5 flex-col">
 				<svg
 					class="w-10 h-10 text-neutral-700"
@@ -25,7 +25,7 @@
 					/>
 				</svg>
 
-				<h3 class="text-xl text-neutral-900">Kto boli?</h3>
+				<h3 class="text-xl text-neutral-900">Vznik a dovod</h3>
 			</div>
 
 			<p class="text-neutral-600">
@@ -33,7 +33,7 @@
 				labore et dolore magna aliqua.
 			</p>
 		</div>
-		<div class="p-8 flex space-y-3 flex-col bg-neutral-50 rounded-lg">
+		<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200">
 			<div class="flex space-y-0.5 flex-col">
 				<svg
 					class="w-10 h-10 text-neutral-700"
@@ -51,7 +51,7 @@
 					/>
 				</svg>
 
-				<h3 class="text-xl text-neutral-900">Kedy boli aktivny?</h3>
+				<h3 class="text-xl text-neutral-900">Publikacie</h3>
 			</div>
 
 			<p class="text-neutral-600">
@@ -59,7 +59,7 @@
 				labore et dolore magna aliqua.
 			</p>
 		</div>
-		<div class="p-8 flex space-y-3 flex-col bg-neutral-50 rounded-lg">
+		<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200">
 			<div class="flex space-y-0.5 flex-col">
 				<svg
 					class="w-10 h-10 text-neutral-700"
@@ -79,7 +79,7 @@
 					/>
 				</svg>
 
-				<h3 class="text-xl text-neutral-900">Jazykove ciele</h3>
+				<h3 class="text-xl text-neutral-900">Dopad</h3>
 			</div>
 
 			<p class="text-neutral-600">

@@ -24,7 +24,7 @@
 				/>
 			</svg>
 
-			<h3 class="text-2xl text-neutral-900">Bernolákovci</h3>
+			<a href={resolve(`/`)} class="text-2xl text-neutral-900">Bernolákovci</a>
 		</div>
 
 		<nav class="p-4 flex space-x-6 items-center lg:flex hidden">
@@ -36,11 +36,18 @@
 				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
 				href={resolve(`/`) + '#figures'}>Kľúčové osobnosti</a
 			>
-			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href={resolve(`/`) + '#timeline'}
-				>Chronologická os</a
+			<a
+				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
+				href={resolve(`/`) + '#timeline'}>Chronologická os</a
 			>
-			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href={resolve(`/`) + '#works'}>Diela</a>
-			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href="">Jazyk</a>
+			<a
+				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
+				href={resolve(`/`) + '#works'}>Diela</a
+			>
+			<a
+				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
+				href={resolve(`/`) + '#language'}>Jazyk</a
+			>
 			<a
 				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
 				href={resolve(`/mapa`)}>Mapa</a
