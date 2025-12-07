@@ -13,7 +13,7 @@
 
 	const items = [
 		{ label: 'Úvod', href: resolve(`/`) + '#introduction' },
-		{ label: 'Kľúčové osobnosti', href: resolve(`/`) + '#figures' },
+		{ label: 'Predstavitelia', href: resolve(`/`) + '#figures' },
 		{ label: 'Chronologická os', href: resolve(`/`) + '#timeline' },
 		{ label: 'Diela', href: resolve(`/`) + '#works' },
 		{ label: 'Jazyk', href: resolve(`/`) + '#language' },

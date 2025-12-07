@@ -6,7 +6,8 @@
 
 <div class="p-5 flex flex-col space-y-6">
 	<h1 class="text-4xl text-neutral-900 text-center md:text-left">Predstavitelia</h1>
-	<div class="flex flex-col space-y-2 bg-neutral-50 p-5 rounded-lg">
+	
+	<div class="flex flex-col space-y-2 bg-neutral-50 p-5 rounded-lg scroll-mt-5" id="bernolak">
 		<h2 class="text-2xl text-neutral-900 text-center md:text-left">Anton Bernolák</h2>
 		<p class="text-lg text-neutral-600">
 			Bol slovenský katolícky kňaz, jazykovedec a významná osobnosť Slovenského národného obrodenia.
@@ -21,7 +22,7 @@
 		</p>
 	</div>
 
-	<div class="flex flex-col space-y-2 bg-neutral-50 p-5 rounded-lg">
+	<div class="flex flex-col space-y-2 bg-neutral-50 p-5 rounded-lg" id="fandly">
 		<h2 class="text-2xl text-neutral-900 text-center md:text-left">Juraj Fándly</h2>
 		<p class="text-lg text-neutral-600">
 			Bol slovenský katolícky kňaz a hlavný predstaviteľ Bernolákovského hnutia. Narodil sa v
@@ -34,7 +35,37 @@
 		</p>
 	</div>
 
-	<div class="flex flex-col space-y-2 bg-neutral-50 p-5 rounded-lg">
+	<div class="flex flex-col space-y-2 bg-neutral-50 p-5 rounded-lg" id="holly">
+		<h2 class="text-2xl text-neutral-900 text-center md:text-left">Anton Bernolák</h2>
+		<p class="text-lg text-neutral-600">
+			Bol slovenský katolícky kňaz, jazykovedec a významná osobnosť Slovenského národného obrodenia.
+			Narodil sa ako druhé dieťa v rodine šľachtica Juraja Bernoláka zo Slanice. Študoval v rokoch
+			1774-1778 na gymnáziu v Ružomberku a na univerzite vo Viedni. Preslávil sa najmä tým, že v
+			roku 1787 kodifikoval prvú spisovnú slovenčinu, založenú podľa západoslovenského nárečia. Jeho
+			najznámejšie diela boli päťjazyčný slovník Slovár slovenskí, česko-latinsko-nemecko-uherskí a
+			pravidlá gramatiky a pravopisu bernolákovskej slovenčiny v dielach Grammatica Slavica a
+			Orthographia Slavica. Taktiež bol tajomníkom Slovenského učeného tovarišstva, čo bolo
+			združenie ktoreho úlohou bolo vzdelávať Slovákov v novom jazyku. Bez osobnosti Antona
+			bernolaka by slovenska kultúra a jazyk určite neboli na takej úrovni na akej sú dnes.
+		</p>
+	</div>
+
+	<div class="flex flex-col space-y-2 bg-neutral-50 p-5 rounded-lg" id="hamuljak">
+		<h2 class="text-2xl text-neutral-900 text-center md:text-left">Anton Bernolák</h2>
+		<p class="text-lg text-neutral-600">
+			Bol slovenský katolícky kňaz, jazykovedec a významná osobnosť Slovenského národného obrodenia.
+			Narodil sa ako druhé dieťa v rodine šľachtica Juraja Bernoláka zo Slanice. Študoval v rokoch
+			1774-1778 na gymnáziu v Ružomberku a na univerzite vo Viedni. Preslávil sa najmä tým, že v
+			roku 1787 kodifikoval prvú spisovnú slovenčinu, založenú podľa západoslovenského nárečia. Jeho
+			najznámejšie diela boli päťjazyčný slovník Slovár slovenskí, česko-latinsko-nemecko-uherskí a
+			pravidlá gramatiky a pravopisu bernolákovskej slovenčiny v dielach Grammatica Slavica a
+			Orthographia Slavica. Taktiež bol tajomníkom Slovenského učeného tovarišstva, čo bolo
+			združenie ktoreho úlohou bolo vzdelávať Slovákov v novom jazyku. Bez osobnosti Antona
+			bernolaka by slovenska kultúra a jazyk určite neboli na takej úrovni na akej sú dnes.
+		</p>
+	</div>
+
+	<div class="flex flex-col space-y-2 bg-neutral-50 p-5 rounded-lg" id="palkovic">
 		<h2 class="text-2xl text-neutral-900 text-center md:text-left">Anton Bernolák</h2>
 		<p class="text-lg text-neutral-600">
 			Bol slovenský katolícky kňaz, jazykovedec a významná osobnosť Slovenského národného obrodenia.

@@ -4,3 +4,7 @@
 	--color-dark-white: oklch(0.99 0 0);
 	--font-display: 'Quicksand', 'sans-serif';
 }
+
+html {
+	scroll-padding-top: 4rem;
+}

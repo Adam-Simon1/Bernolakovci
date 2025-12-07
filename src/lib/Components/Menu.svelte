@@ -14,7 +14,7 @@
 				xmlns="http://www.w3.org/2000/svg"
 				width="24"
 				height="24"
-				fill=""
+				fill="currentColor"
 				viewBox="0 0 24 24"
 			>
 				<path
@@ -34,7 +34,7 @@
 			>
 			<a
 				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
-				href={resolve(`/`) + '#figures'}>Kľúčové osobnosti</a
+				href={resolve(`/`) + '#figures'}>Predstavitelia</a
 			>
 			<a
 				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
@@ -52,7 +52,7 @@
 				class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap"
 				href={resolve(`/mapa`)}>Mapa</a
 			>
-			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href="">Galéria</a>
+			<a class=" text-lg text-neutral-600 hover:text-neutral-900 text-nowrap" href={resolve(`/galeria`)}>Galéria</a>
 		</nav>
 
 		<Dropdown />

@@ -7,6 +7,9 @@
 	import Work from '$lib/Components/Work.svelte';
 	import Language from '$lib/Components/Language.svelte';
 	import Tovarysstvo from '$lib/Components/Tovarysstvo.svelte';
+	import Influence from '$lib/Components/Influence.svelte';
+	import Footer from '$lib/Components/Footer.svelte';
+	import PlusMinus from '$lib/Components/PlusMinus.svelte';
 </script>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -26,3 +29,9 @@
 <Language />
 
 <Tovarysstvo />
+
+<Influence />
+
+<PlusMinus />
+
+<Footer />

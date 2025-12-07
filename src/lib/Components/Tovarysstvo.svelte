@@ -6,7 +6,7 @@
 		</p>
 	</div>
 
-	<div class="flex lg:flex-row flex-col lg:space-x-10 px-10 lg:space-y-0 space-y-5">
+	<div class="flex lg:flex-row flex-col lg:space-x-10 px-10 lg:space-y-0 space-y-10">
 		<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200">
 			<div class="flex space-y-0.5 flex-col">
 				<svg
