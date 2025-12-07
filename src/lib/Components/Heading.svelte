@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { asset } from '$app/paths';
+	import { asset, resolve } from '$app/paths';
 </script>
 
 <div
@@ -8,17 +8,17 @@
 	<div class="space-y-8 flex flex-col justify-center items-center lg:items-start">
 		<h1 class="text-5xl text-neutral-900 text-center lg:text-left">Bernolákovské hnutie</h1>
 		<p class="text-xl text-neutral-600 max-w-xl text-center lg:text-left">
-			Objavte priekopnícke jazykové hnutie, ktoré formovalo slovenský jazyk a kultúrnu identitu na
-			konci 18. a začiatku 19. storočia.
+			Preskúmajte jazykové hnutie, ktoré formovalo slovenský jazyk a kultúrnu identitu na konci 18.
+			a začiatku 19. storočia.
 		</p>
 		<div class="flex flex-row space-x-3">
-			<button
-				class="bg-neutral-900 text-white px-6 py-3 rounded-lg hover:bg-neutral-800 transition-colors cursor-pointer"
-				>Objav históriu</button
+			<a
+				class="bg-neutral-900 text-white px-6 py-3 rounded-lg hover:bg-neutral-800 transition-colors cursor-pointer xs:text-left text-center"
+				href={resolve(`/`) + '#introduction'}>Preskúmaj históriu</a
 			>
-			<button
-				class="border border-neutral-300 text-neutral-700 px-6 py-3 rounded-lg hover:bg-neutral-50 transition-colors cursor-pointer"
-				>Chronologická os</button
+			<a
+				class="border border-neutral-300 text-neutral-700 px-6 py-3 rounded-lg hover:bg-neutral-50 transition-colors cursor-pointer xs:text-left text-center"
+				href={resolve(`/`) + '#timeline'}>Chronologická os</a
 			>
 		</div>
 	</div>

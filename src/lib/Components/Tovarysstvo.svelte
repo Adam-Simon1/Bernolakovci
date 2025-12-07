@@ -1,8 +1,8 @@
 <div class="flex flex-col space-y-15 bg-neutral-50 py-15">
 	<div class="flex flex-col items-center justify-center space-y-5">
-		<h1 class="text-4xl text-neutral-900 text-center">Slovenske Ucene Tovarisstvo</h1>
+		<h1 class="text-4xl text-neutral-900 text-center">Slovenské Učené Tovarišstvo</h1>
 		<p class="text-xl text-neutral-600 text-center">
-			Spolok, ktorý zdruzoval provrzenocov bernolakovcov na slovensku a siril slovensky jazyk
+			Spolok, ktorý združoval privržencov bernolákovcov na Slovensku a šíril slovenský jazyk
 		</p>
 	</div>
 
@@ -25,7 +25,7 @@
 					/>
 				</svg>
 
-				<h3 class="text-xl text-neutral-900">Vznik a dovod</h3>
+				<h3 class="text-xl text-neutral-900">Vznik a dôvod</h3>
 			</div>
 
 			<p class="text-neutral-600">
@@ -51,7 +51,7 @@
 					/>
 				</svg>
 
-				<h3 class="text-xl text-neutral-900">Publikacie</h3>
+				<h3 class="text-xl text-neutral-900">Publikácie</h3>
 			</div>
 
 			<p class="text-neutral-600">

@@ -2,7 +2,7 @@
 	<div class="flex flex-col space-y-5 items-center">
 		<h1 class="text-4xl text-neutral-900 text-center px-2">Úvod do Bernolákovského hnutia</h1>
 		<p class="text-xl text-neutral-600 max-w-3xl mx-auto text-center px-2">
-			Pochopenie hnutia, ktoré zrevolucionizovalo slovenský spisovný jazyk
+			Pochopenie hnutia, ktoré zrevolucionizovalo slovenský jazyk
 		</p>
 	</div>
 
@@ -25,7 +25,7 @@
 					/>
 				</svg>
 
-				<h3 class="text-xl text-neutral-900">Kto boli?</h3>
+				<h3 class="text-xl text-neutral-900">Kto boli</h3>
 			</div>
 
 			<p class="text-neutral-600">
@@ -51,7 +51,7 @@
 					/>
 				</svg>
 
-				<h3 class="text-xl text-neutral-900">Kedy boli aktivny?</h3>
+				<h3 class="text-xl text-neutral-900">Kedy boli aktívny</h3>
 			</div>
 
 			<p class="text-neutral-600">
@@ -79,7 +79,7 @@
 					/>
 				</svg>
 
-				<h3 class="text-xl text-neutral-900">Jazykove ciele</h3>
+				<h3 class="text-xl text-neutral-900">Jazykové ciele</h3>
 			</div>
 
 			<p class="text-neutral-600">

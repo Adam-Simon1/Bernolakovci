@@ -1,8 +1,6 @@
 import adapter from '@sveltejs/adapter-static';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
-const dev = process.env.NODE_ENV === 'development';
-
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	// Consult https://svelte.dev/docs/kit/integrations
@@ -12,10 +10,7 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		paths: {
-			base: dev ? '' : '/https://github.com/Adam-Simon1/Bernolakovci',
-		},
-		prerender: {
-			handleHttpError: 'warn'
+			base: process.env.NODE_ENV === 'production' ? '/Bernolakovci' : ''
 		}
 	}
 };

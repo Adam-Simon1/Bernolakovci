@@ -32,7 +32,7 @@
 
 <Menu />
 
-<div class="md:columns-2 columns-1 p-2">
+<div class="lg:columns-3 md:columns-2 columns-1 p-2">
 	{#each images as image}
 		<img class="rounded-lg w-full mb-4" src={image.src} alt={image.alt} />
 	{/each}

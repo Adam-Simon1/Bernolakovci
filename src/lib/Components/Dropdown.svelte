@@ -46,15 +46,25 @@
 		class="fixed w-full left-0 top-16 bg-white border border-neutral-200 rounded-lg z-50"
 		on:focusout={close}
 	>
-		{#each items as item}
+		{#each items as item, i}
 			<li>
-				<a
-					href={item.href}
-					class="block px-4 py-2 text-neutral-700 hover:bg-gray-100"
-					on:click={() => (open = false)}
-				>
-					{item.label}
-				</a>
+				{#if i % 2 == 0}
+					<a
+						href={item.href}
+						class="block px-4 py-2 text-neutral-700 hover:bg-gray-100 bg-neutral-50"
+						on:click={() => (open = false)}
+					>
+						{item.label}
+					</a>
+				{:else}
+					<a
+						href={item.href}
+						class="block px-4 py-2 text-neutral-700 hover:bg-gray-100"
+						on:click={() => (open = false)}
+					>
+						{item.label}
+					</a>
+				{/if}
 			</li>
 		{/each}
 	</ul>

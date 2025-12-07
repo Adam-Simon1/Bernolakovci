@@ -1,9 +1,6 @@
 <div class="flex flex-col items-center space-y-15 py-15 bg-neutral-50" id="plus-minus">
 	<div class="flex flex-col space-y-5 items-center">
 		<h1 class="text-4xl text-neutral-900 text-center px-2">Plusy a mínusy</h1>
-		<p class="text-xl text-neutral-600 max-w-3xl mx-auto text-center px-2">
-			Formovanie identity a literárnej tradície
-		</p>
 	</div>
 
 	<div class="flex lg:flex-row flex-col lg:space-x-10 px-10 lg:space-y-0 space-y-5">

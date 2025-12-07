@@ -39,8 +39,7 @@
 
 	<div class="flex flex-col space-y-3">
 		<h4 class="text-sm text-neutral-300 uppercase tracking-wider pb-3">Zdroje</h4>
-		<a href="" class="text-neutral-400 hover:text-white transition-colors">Galéria</a>
+		<a href={resolve(`/galeria`)} class="text-neutral-400 hover:text-white transition-colors">Galéria</a>
 		<a href={resolve(`/mapa`)} class="text-neutral-400 hover:text-white transition-colors">Mapa</a>
-		<a href="" class="text-neutral-400 hover:text-white transition-colors">Pramene</a>
 	</div>
 </footer>
