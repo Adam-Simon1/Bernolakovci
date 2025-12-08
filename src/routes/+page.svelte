@@ -36,7 +36,6 @@
 
 <Footer />
 
-<!-- TODO: Uvod - Rico -->
+<!-- TODO: Uvod - Rico --> .
 <!-- TODO: Diela, Vplyv na kulturu - David (Samo) -->
 <!-- TODO: Slovenske Ucenne Tovarysstvo, Mapa (dokoncenie) - Sebo -->
-<!-- TODO: Plusy minusy - Samo-->

@@ -4,7 +4,28 @@
 	</div>
 
 	<div class="flex lg:flex-row flex-col lg:space-x-10 px-10 lg:space-y-0 space-y-5">
-		<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200">
+		<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200 flex-1">
+			<div class="flex space-x-2 flex-row items-center">
+				<svg
+					class="w-10 h-10 text-neutral-700 shrink-0"
+					aria-hidden="true"
+					xmlns="http://www.w3.org/2000/svg"
+					width="24"
+					height="24"
+					fill="none"
+					viewBox="0 0 24 24"
+				>
+					<path
+						stroke="currentColor"
+						stroke-linecap="round"
+						stroke-linejoin="round"
+						stroke-width="2"
+						d="M5 12h14m-7 7V5"
+					/>
+				</svg>
+				<p class="text-neutral-600">Vytvorenie prvého kodifikovaného jazyka</p>
+			</div>
+
 			<div class="flex space-x-2 flex-row items-center">
 				<svg
 					class="w-10 h-10 text-neutral-700 shrink-0"
@@ -24,8 +45,7 @@
 					/>
 				</svg>
 				<p class="text-neutral-600">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
-					ut labore et dolore magna aliqua.
+					Spájanie jazyka so sociálnymi a hlavne náboženskými potrebami
 				</p>
 			</div>
 
@@ -48,37 +68,12 @@
 					/>
 				</svg>
 				<p class="text-neutral-600">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
-					ut labore et dolore magna aliqua.
-				</p>
-			</div>
-
-			<div class="flex space-x-2 flex-row items-center">
-				<svg
-					class="w-10 h-10 text-neutral-700 shrink-0"
-					aria-hidden="true"
-					xmlns="http://www.w3.org/2000/svg"
-					width="24"
-					height="24"
-					fill="none"
-					viewBox="0 0 24 24"
-				>
-					<path
-						stroke="currentColor"
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="2"
-						d="M5 12h14m-7 7V5"
-					/>
-				</svg>
-				<p class="text-neutral-600">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
-					ut labore et dolore magna aliqua.
+					Vytvorenie jazyka, ktorý nebol určený len šlachte, ale aj bežným ľuďom
 				</p>
 			</div>
 		</div>
 
-		<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200">
+		<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200 flex-1">
 			<div class="flex space-x-2 flex-row items-center">
 				<svg
 					class="w-10 h-10 text-neutral-700 shrink-0"
@@ -99,8 +94,7 @@
 				</svg>
 
 				<p class="text-neutral-600">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
-					ut labore et dolore magna aliqua.
+					Išlo skôr o jednostrannú deklaráciu než o dohodu širokej verejnosti
 				</p>
 			</div>
 
@@ -123,8 +117,7 @@
 					/>
 				</svg>
 				<p class="text-neutral-600">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
-					ut labore et dolore magna aliqua.
+					Chýbala štruktúra, ktorá by zaručila jeho prežitie po ich odchode
 				</p>
 			</div>
 
@@ -147,8 +140,7 @@
 					/>
 				</svg>
 				<p class="text-neutral-600">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
-					ut labore et dolore magna aliqua.
+					Ich jazyková úprava bola odborná a rozsiahla, teda ťažká na osvojenie pre bežného človeka
 				</p>
 			</div>
 		</div>

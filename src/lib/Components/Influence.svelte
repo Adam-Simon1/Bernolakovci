@@ -9,7 +9,7 @@
 	</div>
 
 	<div class="flex lg:flex-row flex-col lg:space-x-10 px-10 lg:space-y-0 space-y-10">
-		<div class="p-8 flex space-y-3 flex-col bg-neutral-50 rounded-lg">
+		<div class="p-8 flex space-y-3 flex-col bg-neutral-50 rounded-lg flex-1">
 			<div class="flex space-y-0.5 flex-col">
 				<svg
 					class="w-10 h-10 text-neutral-700"
@@ -30,12 +30,21 @@
 				<h3 class="text-xl text-neutral-900">Ako ovplyvnili jazykové povedomie</h3>
 			</div>
 
-			<p class="text-neutral-600">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
-				labore et dolore magna aliqua.
-			</p>
+			<ul class="text-neutral-600 list-disc pl-5 space-y-3">
+				<li>
+					Zavedením prvého spisovného jazyka položili základ pre uvedomenie si slovenčiny ako
+					samostatného jazyka, odlišného od češtiny, maďarčiny či nemčiny.
+				</li>
+				<li>
+					Šírením kníh, praktických príručiek a literárnych diel u širokej verejnosti podporili
+					čitateľskú gramotnosť a kultúrnu identitu.
+				</li>
+				<li>
+					Pomohli ľuďom pochopiť, že jazyk je nositeľom národného vedomia a kultúrnej samostatnosti.
+				</li>
+			</ul>
 		</div>
-		<div class="p-8 flex space-y-3 flex-col bg-neutral-50 rounded-lg">
+		<div class="p-8 flex space-y-3 flex-col bg-neutral-50 rounded-lg flex-1">
 			<div class="flex space-y-0.5 flex-col">
 				<svg
 					class="w-10 h-10 text-neutral-700"
@@ -56,12 +65,22 @@
 				<h3 class="text-xl text-neutral-900">Čo ostalo v Slovenčine dodnes</h3>
 			</div>
 
-			<p class="text-neutral-600">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
-				labore et dolore magna aliqua.
-			</p>
+			<ul class="text-neutral-600 list-disc pl-5 space-y-3">
+				<li>
+					Niektoré slová, výrazy a jazykové tvary bernolákovčiny sa zachovali a prešli do modernej
+					slovenčiny, najmä v západoslovenskom nárečí.
+				</li>
+				<li>
+					Práca bernolákovcov ukázala potrebu jednotnej gramatiky a pravopisu, čo sa stalo vzorom
+					pre neskoršie jazykové kodifikácie.
+				</li>
+				<li>
+					Pojmy z literatúry, praktických príručiek a národných textov sa stali súčasťou kultúrneho
+					dedičstva Slovákov.
+				</li>
+			</ul>
 		</div>
-		<div class="p-8 flex space-y-3 flex-col bg-neutral-50 rounded-lg">
+		<div class="p-8 flex space-y-3 flex-col bg-neutral-50 rounded-lg flex-1">
 			<div class="flex space-y-0.5 flex-col">
 				<svg
 					class="w-10 h-10 text-neutral-700"
@@ -80,10 +99,18 @@
 				<h3 class="text-xl text-neutral-900">Ako prispeli k formovaniu národa</h3>
 			</div>
 
-			<p class="text-neutral-600">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
-				labore et dolore magna aliqua.
-			</p>
+			<ul class="text-neutral-600 list-disc pl-5 space-y-3">
+				<li>Bernolákovci posilnili národnú identitu a pocit spolupatričnosti medzi Slovákmi.</li>
+				<li>
+					Ich diela a spolky (napr. Slovenské učené tovaryšstvo) vytvorili prvú organizovanú národnú
+					komunitu, ktorá podporovala vzdelanie, kultúru a literatúru.
+				</li>
+				<li>
+					Ich snaha dokázala, že Slováci môžu mať vlastný literárny jazyk, kultúru a vzdelanie, čo
+					bolo zásadné pre neskorší rozvoj národného hnutia a budovanie moderného slovenského
+					národa.
+				</li>
+			</ul>
 		</div>
 	</div>
 </div>
