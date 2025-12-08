@@ -8,10 +8,35 @@
 		name: string;
 	}> = [
 		{
-			lngLat: [19.1535, 48.7395],
-			label: 'BB',
-			name: 'Banska Bystrica'
-		}
+			lngLat: [17.58723, 48.37741],
+			label: 'TN',
+			name: 'Slovenské učené tovarišstvo'
+		},
+		{
+			lngLat: [19.51769977575174, 49.39789827706012],
+			label: '',
+			name: 'Anton Bernolák - rodisko'
+		},
+		{
+			lngLat: [17.357553305331376, 48.39951136209721],
+			label: '',
+			name: 'Juraj Fándly - rodisko'
+		},
+		{
+			lngLat: [17.2123732653765, 48.62907140271441],
+			label: '',
+			name: 'Ján Hollý - rodisko'
+		},
+		{
+			lngLat: [20.940884320060032, 48.92763805120492],
+			label: '',
+			name: 'Juraj Palkovič - rodisko'
+		},
+		{
+			lngLat: [19.43651360588298, 49.388723427674904],
+			label: '',
+			name: 'Martin Hamuljak - rodisko'
+		},
 	];
 </script>
 

@@ -25,32 +25,8 @@
 					<div class="w-3 h-3 bg-white rounded-full"></div>
 				</div>
 				<div class="flex-1 pl-8">
-					<h3 class="text-xl text-neutral-900">1755</h3>
-					<p class="text-neutral-600">Narodenie Jozefa Ignáca Bajzu</p>
-				</div>
-			</div>
-
-			<div class="relative flex items-center">
-				<div class="flex-1 pr-8 text-right">
 					<h3 class="text-xl text-neutral-900">1762</h3>
 					<p class="text-neutral-600">Narodenie Antona Bernoláka</p>
-				</div>
-				<div class="relative flex items-center justify-center w-8 h-8 bg-neutral-900 rounded-full">
-					<div class="w-3 h-3 bg-white rounded-full"></div>
-				</div>
-				<div class="flex-1 pl-8"></div>
-			</div>
-
-			<div class="relative flex items-center">
-				<div class="flex-1 pr-8"></div>
-				<div class="relative flex items-center justify-center w-8 h-8 bg-neutral-900 rounded-full">
-					<div class="w-3 h-3 bg-white rounded-full"></div>
-				</div>
-				<div class="flex-1 pl-8">
-					<h3 class="text-xl text-neutral-900">1784-1785</h3>
-					<p class="text-neutral-600">
-						Vydanie románu J. I. Bajzu „René mláďenca príhody a skúsenosťi“ (prvé vydania)
-					</p>
 				</div>
 			</div>
 

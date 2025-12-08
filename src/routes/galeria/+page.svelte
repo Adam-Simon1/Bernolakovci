@@ -5,6 +5,18 @@
 	const images = [
 		{
 			alt: '',
+			src: asset('/rukopis1.jpeg')
+		},
+		{
+			alt: '',
+			src: asset('/rukopis2.jpeg')
+		},
+		{
+			alt: '',
+			src: asset('/rukopis3.jpeg')
+		},
+		{
+			alt: '',
 			src: asset('/anton_bernolak.webp')
 		},
 		{

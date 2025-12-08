@@ -46,7 +46,7 @@
 
 		<div class="flex flex-col items-center space-y-3 pt-15 px-18">
 			<img
-				src={asset('/anton_bernolak.webp')}
+				src={asset('/fandly.jpeg')}
 				alt=""
 				class="w-24 h-24 rounded-full border-2 border-neutral-200"
 			/>
@@ -78,7 +78,7 @@
 
 		<div class="flex flex-col items-center space-y-3 pt-15 px-18">
 			<img
-				src={asset('/anton_bernolak.webp')}
+				src={asset('/Jan_Holly.jpg')}
 				alt=""
 				class="w-24 h-24 rounded-full border-2 border-neutral-200"
 			/>
@@ -110,7 +110,7 @@
 
 		<div class="flex flex-col items-center space-y-3 pt-15 px-18">
 			<img
-				src={asset('/anton_bernolak.webp')}
+				src={asset('/Martin_Hamuljak.png')}
 				alt=""
 				class="w-24 h-24 rounded-full border-2 border-neutral-200"
 			/>
@@ -142,7 +142,7 @@
 
 		<div class="flex flex-col items-center space-y-3 pt-15 px-18">
 			<img
-				src={asset('/anton_bernolak.webp')}
+				src={asset('/Juraj_Palkovic.jpg')}
 				alt=""
 				class="w-24 h-24 rounded-full border-2 border-neutral-200"
 			/>
