@@ -28,17 +28,14 @@
 				<h3 class="text-xl text-neutral-900">Vznik a dôvod</h3>
 			</div>
 
-			<ul class="text-neutral-600 list-disc pl-5 space-y-3">
-				<li>Slovenské učené tovaryšstvo (SUT) vzniklo v roku 1792 v Trnave.</li>
-				<li>
-					Zakladateľom a hlavnou inšpiráciou bol Anton Bernolák a jeho okolie, najmä katolícki
-					duchovní a učenci, ktorí sa snažili podporiť vzdelanosť a kultúrnu aktivitu Slovákov.
-				</li>
-				<li>
-					Hlavnou myšlienkou spolku bolo: šíriť poznanie a vzdelanie medzi slovenský ľud, rozvíjať
-					národnú kultúru, posilňovať používanie bernolákovčiny ako spisovného jazyka.
-				</li>
-			</ul>
+			<p class="text-neutral-600 list-disc">
+				Slovenské učené tovarišstvo vzniklo v roku 1792 z iniciatívy Antona Bernoláka. Jeho hlavnou
+				myšlienkou bolo šíriť vzdelanosť v slovenskom jazyku a podporiť používanie spisovnej
+				slovenčiny – bernolákovčiny.
+				<br />
+				<br />
+				Spolok mal asi 400 – 500 členov, najmä kňazov, učiteľov a vzdelancov z celého Slovenska.
+			</p>
 		</div>
 		<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200 flex-1">
 			<div class="flex space-y-0.5 flex-col">
@@ -61,21 +58,10 @@
 				<h3 class="text-xl text-neutral-900">Publikácie</h3>
 			</div>
 
-			<ul class="text-neutral-600 list-disc pl-5 space-y-3">
-				<li>
-					Spolok sa venoval vydávaniu a šíreniu literatúry v bernolákovčine. Medzi hlavné typy diel
-					patrili:
-					<ul class="text-neutral-600 list-disc pl-5">
-						<li>jazykovedné práce</li>
-						<li>slovníky</li>
-						<li>praktické príručky a literatúra pre ľud</li>
-					</ul>
-				</li>
-				<li>
-					Cieľom bolo, aby knihy boli dostupné pre učencov aj širší okruh verejnosti a podporovali
-					používanie spisovného jazyka
-				</li>
-			</ul>
+			<p class="text-neutral-600 list-disc">
+				Vydával a šíril najmä náboženské knihy, poučné spisy, slovníky a ďalšie texty. Tým
+				zabezpečil, že jazyk sa dostal medzi jednoduchý ľud.
+			</p>
 		</div>
 		<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200 flex-1">
 			<div class="flex space-y-0.5 flex-col">
@@ -99,17 +85,10 @@
 
 				<h3 class="text-xl text-neutral-900">Dopad</h3>
 			</div>
-
-			<ul class="text-neutral-600 list-disc pl-5 space-y-3">
-				<li>
-					SUT bol prvým organizovaným národným kultúrnym spolkom, ktorý sa aktívne snažil propagovať
-					bernolákovčinu ako spisovný jazyk Slovákov.
-				</li>
-				<li>
-					Vďaka jeho činnosti sa bernolákovčina rozšírila medzi vzdelancov a čiastočne aj medzi
-					širší ľud, čo položilo základy pre neskoršie národné hnutie a literárnu činnosť štúrovcov.
-				</li>
-			</ul>
+			<p class="text-neutral-600 list-disc">
+				Jeho najväčší prínos spočíval v tom, že rozšíril bernolákovčinu a podporil slovenské národné
+				uvedomenie, čo neskôr uľahčilo budovanie modernej slovenskej kultúry.
+			</p>
 		</div>
 	</div>
 </div>

@@ -54,7 +54,7 @@
 					/>
 				</svg>
 
-				<h3 class="text-xl text-neutral-900">Kedy boli aktívny</h3>
+				<h3 class="text-xl text-neutral-900">Kedy boli aktívni</h3>
 			</div>
 
 			<p class="text-neutral-600">
