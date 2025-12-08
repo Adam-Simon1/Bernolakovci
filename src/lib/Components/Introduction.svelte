@@ -29,8 +29,11 @@
 			</div>
 
 			<p class="text-neutral-600">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
-				labore et dolore magna aliqua.
+				Bernolákovci boli skupina slovenských katolíckych vzdelancov, ktorí nadviazali na jazykovú
+				reformu Antona Bernoláka a usilovali sa o vytvorenie a šírenie prvého uceleného spisovného
+				slovenského jazyka. Patrili sem najmä Anton Bernolák, Juraj Fándly, Ján Hollý, Juraj
+				Palkovič a ďalší vzdelanci pôsobiaci v mestách západného Slovenska. Ich činnosť bola úzko
+				spätá s osvietenskými a národne uvedomovacími snahami konca 18. a začiatku 19. storočia.
 			</p>
 		</div>
 		<div class="p-8 flex space-y-3 flex-col bg-neutral-50 rounded-lg">
@@ -55,8 +58,11 @@
 			</div>
 
 			<p class="text-neutral-600">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
-				labore et dolore magna aliqua.
+				Bernolákovci pôsobili približne od 80. rokov 18. storočia do polovice 19. storočia. Toto
+				obdobie bolo časom silnejúcich národných hnutí v Európe, keď sa mnohé národy začínali
+				kultúrne a jazykovo vymaňovať spod nadvlády dominantných jazykov, najmä latinčiny, nemčiny a
+				maďarčiny. Práve v takomto období sa bernolákovci snažili podporiť slovenskú kultúru,
+				vzdelanosť a národnú identitu.
 			</p>
 		</div>
 		<div class="p-8 flex space-y-3 flex-col bg-neutral-50 rounded-lg">
@@ -83,8 +89,12 @@
 			</div>
 
 			<p class="text-neutral-600">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
-				labore et dolore magna aliqua.
+				Cieľom jazykového úsilia bernolákovcov bolo vytvoriť jednotný slovenský spisovný jazyk,
+				ktorý by slúžil slovenskému národu v literatúre, vzdelávaní, náboženskom živote a
+				spoločenskej komunikácii. Usilovali sa o jazyk, ktorý by bol zrozumiteľný pre široké vrstvy
+				obyvateľstva, podporoval národnú kultúrnu identitu a umožnil rozvoj domácej literárnej
+				tvorby. Bernolákovci zároveň zakladali spolky, vydávali knihy a posilňovali kultúrne
+				povedomie Slovákov.
 			</p>
 		</div>
 	</div>

@@ -12,7 +12,7 @@
 		<div class="flex flex-col space-y-10">
 			<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200">
 				<div class="flex space-y-0.5 flex-col">
-					<h3 class="text-xl text-neutral-900">Kto boli?</h3>
+					<h3 class="text-xl text-neutral-900">Dissertatio</h3>
 				</div>
 
 				<p class="text-neutral-600">
@@ -46,7 +46,7 @@
 
 			<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200">
 				<div class="flex space-y-0.5 flex-col">
-					<h3 class="text-xl text-neutral-900">Kto boli?</h3>
+					<h3 class="text-xl text-neutral-900">Slovár slovenskí</h3>
 				</div>
 
 				<p class="text-neutral-600">
@@ -82,7 +82,7 @@
 		<div class="flex flex-col space-y-10">
 			<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200">
 				<div class="flex space-y-0.5 flex-col">
-					<h3 class="text-xl text-neutral-900">Kto boli?</h3>
+					<h3 class="text-xl text-neutral-900">Piľní domajší a poľní hospodár</h3>
 				</div>
 
 				<p class="text-neutral-600">
@@ -116,7 +116,7 @@
 
 			<div class="p-8 flex space-y-3 flex-col bg-white rounded-lg border border-neutral-200">
 				<div class="flex space-y-0.5 flex-col">
-					<h3 class="text-xl text-neutral-900">Kto boli?</h3>
+					<h3 class="text-xl text-neutral-900">Svatopluk</h3>
 				</div>
 
 				<p class="text-neutral-600">
