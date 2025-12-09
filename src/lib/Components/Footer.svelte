@@ -41,5 +41,6 @@
 		<h4 class="text-sm text-neutral-300 uppercase tracking-wider pb-3">Zdroje</h4>
 		<a href={resolve(`/galeria`)} class="text-neutral-400 hover:text-white transition-colors">Galéria</a>
 		<a href={resolve(`/mapa`)} class="text-neutral-400 hover:text-white transition-colors">Mapa</a>
+		<a href={resolve(`/zdroje`)} class="text-neutral-400 hover:text-white transition-colors">Internetové zdroje</a>
 	</div>
 </footer>
